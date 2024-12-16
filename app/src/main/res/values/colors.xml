@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#B8B8B8</color>
+
+    <!-- Primary colors -->
+    <color name="colorPrimary">#5A1921</color>
+    <color name="colorPrimaryDark">#5A1921</color>
+    <color name="colorAccent">#FFD600</color>
+
+    <!-- Background and additional colors -->
+    <color name="colorBackground">#D5D5D5</color>
+    <color name="colorYellowLight">#FFF59D</color>
+
+    <!-- Brown shade for app theme -->
+    <color name="colorBrown">#8B4513</color> <!-- SaddleBrown -->
+</resources>
